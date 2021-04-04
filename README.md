@@ -8,3 +8,4 @@ This repository contains resources to learn python.
 4. Shivani Gupta
 5. Ramesh Mitawa
 6. Deepanshu Rana
+7. Yash Jain
