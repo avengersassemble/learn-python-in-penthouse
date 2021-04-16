@@ -9,4 +9,5 @@ This repository contains resources to learn python.
 5. Ramesh Mitawa
 6. Deepanshu Rana
 7. Yash Jain
-8. Gurmit Seera
+8. Himanshu Bamoriya
+9. Gurmit Seera
