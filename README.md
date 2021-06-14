@@ -1,5 +1,5 @@
 # learn-python-in-penthouse
-This repository contains resources to learn python. 
+This repository contains resources to learn python. - where are the resources :p
 
 ## Collaborators: 
 1. Varun Jain
